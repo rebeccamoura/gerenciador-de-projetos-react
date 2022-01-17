@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+.nav {
+    background-color: #00345c;
+}
+
+.navContainer {
+    height: 13vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    margin: auto;
+}
+
+.nav img {
+    width: 80px;
+}
+
+.nav h1 {
+    font-size: 2rem;
+    color: #f1f5f8;
+}
+
+.nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 1.6rem;
+    padding: 10px;
+    color: #f1f5f8;
+}
+
+.link:hover {
+    border-bottom: 2px solid #f1f5f8;
+}
