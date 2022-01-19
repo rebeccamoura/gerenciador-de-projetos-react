@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.formField {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.formField label {
+    font-size: 1.6rem;
+    margin: 20px 0px 10px 0px;
+}
+
+.formField input {
+    width: 300px;
+    padding: 10px;
+    font-size: 1.6rem;
+}

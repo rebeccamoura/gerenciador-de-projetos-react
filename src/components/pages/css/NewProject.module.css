@@ -1,3 +1,7 @@
 @charset "UTF-8";
 
-
+.mainForm h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 50px 0px 10px 0px;
+}
